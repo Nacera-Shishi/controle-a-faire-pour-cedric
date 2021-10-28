@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    color: gray;
+    text-shadow: 5px 4px 5px rgb(65, 59, 59);
+}
+
+p.cui{
+color: blue;
+
+}
+
+p.shi{
+color: rgb(5, 182, 5);
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+font-style: italic;
+font-weight: bold;
+
+}
+
+div.im{
+margin-top: -400px;
+margin-left: 640px;
+
+}
+
